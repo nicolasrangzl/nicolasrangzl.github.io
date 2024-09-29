@@ -48,6 +48,3 @@ I'm learning some frameworks more in-depth like React and Node.
 
 ## What Motivates Me
 Always seeking to learn and grow, whether by creating innovative technological solutions or sharing my routine on social media. My goal is to positively impact those who interact with my work, whether through efficient code, creative designs, or creating content for the internet!
-
-## That's me ;D
-![alt text](https://i.imgur.com/SX0aDBk.jpeg)
